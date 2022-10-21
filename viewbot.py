@@ -7,7 +7,7 @@
 @time: 2024/07/29
 """
 
-import os, requests, io, time, random, bs4, sys, datetime, re, base64, urllib.parse, json, threading, cursor
+import os, requests, io, time, random, bs4, sys, datetime, re, base64, urllib.parse, json, threading
 from pystyle import *
 from PIL import Image
 
